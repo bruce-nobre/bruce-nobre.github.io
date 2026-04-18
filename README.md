@@ -12,11 +12,11 @@
   -	 CSC                   Canadian Securities Institute (2012)
 <details>
 <summary>DataCamp (2022)</summary>
-  - Intro to Data Science in Python      
-  -	EDA in Python
-  - Intro to Regression with statsmodels  
-  - Cluster Analysis in Python
-  - Dimensionality Reduction in Python
+  -  Intro to Data Science in Python      
+  -	 EDA in Python
+  -  Intro to Regression with statsmodels  
+  -  Cluster Analysis in Python
+  -  Dimensionality Reduction in Python
 
 </details>   
 
@@ -35,10 +35,10 @@
 <details>
 <summary>View all previous roles @ London Life Insurance Co.</summary>
     
-  - Financial Analyst (2017-2021)    
-  -	Sr. Client Services Coordinator (2015-2016)
-  - Team Coordinator (2015-2016) 
-  - Client Service Specialist (2012-2014)
+  -  Financial Analyst (2017-2021)    
+  -	 Sr. Client Services Coordinator (2015-2016)
+  -  Team Coordinator (2015-2016) 
+  -  Client Service Specialist (2012-2014)
 
 ### Projects
 xxx
