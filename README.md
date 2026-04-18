@@ -5,16 +5,13 @@
 ## Education
  -	 M.S. Data Science    Eastern University (Q2 2027)
  -	 BA (Hons)            The University of Western Ontario (2008)
- 
- ## Certifications
+
+## Certifications
   -	 Big Data Analytics    York Univerisity (2023)
   -	 CFA Level 1           CFA Institute (2017)
   -	 CSC                   Canadian Securities Institute (2012)
-   
-   **DataCamp:**
 <details>
-<summary>View all DataCamp certificates</summary>
-
+<summary>DataCamp (2022)</summary>
   - Intro to Data Science in Python      
   -	EDA in Python
   - Intro to Regression with statsmodels  
