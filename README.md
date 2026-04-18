@@ -1,6 +1,9 @@
 # Data Scientist
 xxx
 
+
+![Headshot](/assets/img/headshot.png)
+
 ### Education
 xxx
 
