@@ -11,18 +11,20 @@
   -	 CFA Level 1           CFA Institute (2017)
   -	 CSC                   Canadian Securities Institute (2012)
 <details>
-<summary>DataCamp (2022)</summary>
-  -  Intro to Data Science in Python      
-  -	 EDA in Python
-  -  Intro to Regression with statsmodels  
-  -  Cluster Analysis in Python
-  -  Dimensionality Reduction in Python
+<summary><strong>DataCamp (2022)</strong></summary>
 
-</details>   
+- Intro to Data Science in Python  
+- EDA in Python  
+- Regression with statsmodels  
+- Cluster Analysis  
+- Dimensionality Reduction  
+
+</details>
 
 ## Work Experience
 
-### Sr Analyst - Data & Analytics @ Canada Life (Apr 2021 - Present)
+### Sr Analyst - Data & Analytics @ Canada Life 
+#### (Apr 2021 - Present)
 
 - Led business intelligence, report automation, and dashboard development
 - Managed expense and variance reporting ($40M+)
@@ -39,6 +41,8 @@
   -	 Sr. Client Services Coordinator (2015-2016)
   -  Team Coordinator (2015-2016) 
   -  Client Service Specialist (2012-2014)
+
+</details>
 
 ### Projects
 xxx
