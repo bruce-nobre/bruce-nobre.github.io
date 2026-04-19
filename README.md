@@ -21,10 +21,11 @@
 
 </details>
 
+
 ## Work Experience
 
-### Sr Analyst - Data & Analytics @ Canada Life 
-#### (Apr 2021 - Present)
+### Sr Analyst – Data & Analytics @ Canada Life  
+(Apr 2021 – Present)
 
 - Led business intelligence, report automation, and dashboard development
 - Managed expense and variance reporting ($40M+)
