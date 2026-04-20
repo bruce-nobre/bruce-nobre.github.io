@@ -36,8 +36,8 @@
 - Modeled annual ERP datasets
 
 <details>
-<summary>View all previous roles @ London Life Insurance Co.</summary>
-    
+<summary><strong>View all previous roles @ London Life Insurance Co.</strong></summary>
+
 - Financial Analyst (2017–2021)  
 - Sr. Client Services Coordinator (2015–2016)  
 - Team Coordinator (2015–2016)  
