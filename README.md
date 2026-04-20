@@ -39,7 +39,7 @@
 - Modeled annual ERP datasets
 
 <details>
-<summary><strong>View all previous roles @ London Life Insurance Co.</strong></summary>
+<summary>View all previous roles @ London Life Insurance Co.</summary>
 
 <ul>
   <li>Financial Analyst (2017–2021)</li>
