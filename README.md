@@ -51,5 +51,8 @@
 </details>
 <br>
 
+## Trading Profile
+xxxx
+
 ### Projects
 xxx
