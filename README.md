@@ -41,10 +41,12 @@
 <details>
 <summary><strong>View all previous roles @ London Life Insurance Co.</strong></summary>
 
-- Financial Analyst (2017–2021)  
-- Sr. Client Services Coordinator (2015–2016)  
-- Team Coordinator (2015–2016)  
-- Client Service Specialist (2012–2014)
+<ul>
+  <li>Financial Analyst (2017–2021)</li>
+  <li>Sr. Client Services Coordinator (2015–2016)</li>
+  <li>Team Coordinator (2015–2016)</li>
+  <li>Client Service Specialist (2012–2014)</li>
+</ul>
 
 </details>
 <br>
