@@ -1,6 +1,6 @@
 # Sr Analyst – Data & Analytics
 
-#### Technical Skills: Python, R, SQL | Power BI, Tableau, Excel | Azure
+#### Technical Skills: Python, R, SQL | Power BI, Tableau, Excel | Azure | Data mining, Algo trading
 
 ## Education
  -	 M.S. Data Science    Eastern University (Q2 2027)
@@ -20,7 +20,7 @@
 - Dimensionality Reduction  
 
 </details>
-
+<br>
 
 ## Work Experience
 
