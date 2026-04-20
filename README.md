@@ -10,14 +10,15 @@
   -	 Big Data Analytics    York Univerisity (2023)
   -	 CFA Level 1           CFA Institute (2017)
   -	 CSC                   Canadian Securities Institute (2012)
-<details>
-<summary><strong>DataCamp (2022)</strong></summary>
 
-- Intro to Data Science in Python  
-- EDA in Python  
-- Regression with statsmodels  
-- Cluster Analysis  
-- Dimensionality Reduction  
+<details>
+<summary>DataCamp (2022)</summary>
+
+- Intro to Data Science in Python
+- EDA in Python
+- Regression with statsmodels
+- Cluster Analysis
+- Dimensionality Reduction
 
 </details>
 <br>
