@@ -14,11 +14,13 @@
 <details>
 <summary>DataCamp (2022)</summary>
 
-- Intro to Data Science in Python
-- EDA in Python
-- Regression with statsmodels
-- Cluster Analysis
-- Dimensionality Reduction
+<ul>
+  <li>Intro to Data Science in Python</li>
+  <li>EDA in Python</li>
+  <li>Regression with statsmodels</li>
+  <li>Cluster Analysis</li>
+  <li>Dimensionality Reduction</li>
+</ul>
 
 </details>
 <br>
